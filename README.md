@@ -7,15 +7,15 @@ All of buggypather's open-source projects in one place. **Suggestions, issues an
 | Project | What it is |
 | --- | --- |
 | [open-launcher-an](https://github.com/buggypather/open-launcher-an) | **Open Home Layout:** your Android home screen (apps, folders, widgets, dock, wallpaper, gestures, news feeds, weather places) as one open file, so it moves to a new phone or another launcher. Includes TypeScript and Java libraries. |
-| [filezone-privacy](https://github.com/buggypather/filezone-privacy) | The privacy policy for File Zone, an Android file manager, home screen and set of tools. [Read it](https://buggypather.github.io/filezone-privacy/). |
 
-## Tools for developers
+## Claude Code and developer tools
 
 | Project | What it is |
 | --- | --- |
+| [save-me-claude](https://github.com/buggypather/save-me-claude) | A Claude Code plugin that saves every conversation, your requests and every command or file change Claude makes, to dated folders on your computer. |
+| [notify-me-claude](https://github.com/buggypather/notify-me-claude) | A Claude Code plugin that shows a desktop notification when Claude starts, needs permission, replies or finishes (Windows, Mac, Linux). |
+| [crash-me-claude](https://github.com/buggypather/crash-me-claude) | A Claude Code plugin that notes errors as they happen and makes redacted crash reports from Claude Code and its IDE extension, ready to save or send. |
 | [view-me-claude](https://github.com/buggypather/view-me-claude) | A light VS Code panel beside Claude Code: your phones (adb), running agents and builds, plan usage, servers your agents started, and sessions you can bring back. |
-| [claude-response-saver](https://github.com/buggypather/claude-response-saver) | Saves every Claude Code response to its own numbered Markdown file, with the request it answers. |
-| [nested-code-vsc-acode](https://github.com/buggypather/nested-code-vsc-acode) | Highlighting for deeply nested data and embedded languages, for VS Code and the Acode editor. |
 
 ## DevDocs: documentation offline
 

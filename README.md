@@ -8,6 +8,12 @@ All of buggypather's open-source projects in one place. **Suggestions, issues an
 | --- | --- |
 | [open-launcher-an](https://github.com/buggypather/open-launcher-an) | **Open Home Layout:** your Android home screen (apps, folders, widgets, dock, wallpaper, gestures, news feeds, weather places) as one open file, so it moves to a new phone or another launcher. Includes TypeScript and Java libraries. |
 
+## Libraries
+
+| Project | What it is |
+| --- | --- |
+| [rar5-ts-reader](https://github.com/buggypather/rar5-ts-reader) | Lists what's inside a RAR 5 archive by reading only its headers (fast even for huge or remote files), and extracts files stored without compression. TypeScript, no dependencies, browsers and Node, plus a `rar5ls` command. Handles self-extracting and multi-volume archives. |
+
 ## Claude Code and developer tools
 
 | Project | What it is |

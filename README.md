@@ -16,6 +16,9 @@ All of buggypather's open-source projects in one place. **Suggestions, issues an
 
 ## Claude Code and developer tools
 
+Install all three plugins from one place: [claude-plugins](https://github.com/buggypather/claude-plugins)
+(`claude plugin marketplace add buggypather/claude-plugins`).
+
 | Project | What it is |
 | --- | --- |
 | [save-me-claude](https://github.com/buggypather/save-me-claude) | A Claude Code plugin that saves every conversation, your requests and every command or file change Claude makes, to dated folders on your computer. |

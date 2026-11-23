@@ -21,6 +21,7 @@ All of buggypather's open-source projects in one place. **Suggestions, issues an
 
 | Project | What it is |
 | --- | --- |
+| [boot-times](https://github.com/buggypather/boot-times) | Shows how long your Windows PC took to start up over its last boots, and what slowed them down, from the boot record Windows already keeps. A `boot-times` command for npm and PowerShell, plus a desktop shortcut. |
 | [open-boot-programs](https://github.com/buggypather/open-boot-programs) | A curated list of programs that deal with booting a PC: how long boots take, what starts at boot or sign-in, what's waiting for the next restart, and boot USB makers and boot managers. Sorted into works on both, Windows and Linux. |
 
 ## Claude Code and developer tools

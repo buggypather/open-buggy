@@ -7,6 +7,8 @@ All of buggypather's open-source projects in one place. **Suggestions, issues an
 | Project | What it is |
 | --- | --- |
 | [open-launcher-an](https://github.com/buggypather/open-launcher-an) | **Open Home Layout:** your Android home screen (apps, folders, widgets, dock, wallpaper, gestures, news feeds, weather places) as one open file, so it moves to a new phone or another launcher. Includes TypeScript and Java libraries. |
+| [an-bash-snips](https://github.com/buggypather/an-bash-snips) | Ready-made Termux scripts for automating an Android phone: triggers (a text from someone, a missed call, battery low, home Wi-Fi, a time of day) and actions (open an app, start an email draft, speak, notify) that snap together. Safe to try: a dry-run switch, and nothing sends without asking. |
+| [an-automate-snips](https://github.com/buggypather/an-automate-snips) | The same ideas for the Automate app, written block by block: triggers, actions and whole flows to build by tapping. |
 
 ## Libraries
 

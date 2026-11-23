@@ -17,6 +17,12 @@ All of buggypather's open-source projects in one place. **Suggestions, issues an
 | [rar5-ts-reader](https://github.com/buggypather/rar5-ts-reader) | Lists what's inside a RAR 5 archive by reading only its headers (fast even for huge or remote files), and extracts files stored without compression. TypeScript, no dependencies, browsers and Node, plus a `rar5ls` command. Handles self-extracting and multi-volume archives. |
 | [divmod4](https://github.com/buggypather/divmod4) | Division with a remainder, every way: truncated (JavaScript's `%`), away from zero (its opposite), floored (Python), ceiling, Euclidean and nearest. For numbers and BigInts, no dependencies. |
 
+## Windows and Linux
+
+| Project | What it is |
+| --- | --- |
+| [open-boot-programs](https://github.com/buggypather/open-boot-programs) | A curated list of programs that deal with booting a PC: how long boots take, what starts at boot or sign-in, what's waiting for the next restart, and boot USB makers and boot managers. Sorted into works on both, Windows and Linux. |
+
 ## Claude Code and developer tools
 
 Install all three plugins from one place: [claude-plugins](https://github.com/buggypather/claude-plugins)
